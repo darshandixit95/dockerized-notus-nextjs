@@ -1,0 +1,21 @@
+# Ignore Node related files and directories
+node_modules
+npm-debug.log
+
+# Ignore build and cache directories
+.next
+.cache
+.out
+.next-server
+
+# Ignore development server files
+*.hot-update.json
+
+# Ignore log files
+*.log
+
+# Ignore test files
+**/__tests__
+
+# Ignore miscellaneous files
+.DS_Store
