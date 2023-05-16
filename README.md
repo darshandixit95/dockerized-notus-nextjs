@@ -18,7 +18,8 @@ By leveraging Docker, you can easily manage and deploy your Notus NextJS applica
 
 ## Installation
 
-1. Clone the repository:```kkkk
+1. Clone the repository:
+
    ```shell
    git clone https://github.com/your-username/notus-nextjs.git
    cd notus-nextjs
@@ -70,4 +71,3 @@ To start the production container, run:
 By leveraging Docker, you can effortlessly manage and deploy your web application, ensuring consistent environments across different machines or servers.
 
 Please note that you may need to adjust the commands or paths based on your project structure and requirements.
-
